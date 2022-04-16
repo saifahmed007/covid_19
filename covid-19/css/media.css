@@ -1,0 +1,176 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+		 	 	 /*header*/
+ /*header*/
+    .menu ul li a {
+        padding: 10px 0 0 !important; 
+        font-size: 25px;
+        text-align: right;
+
+    }
+    .content h3 {
+        font-size: 2rem;
+    }
+    /*syptoms    */
+    .content h1 {
+        font-size: 2rem;
+        margin-bottom: 40px;
+    }
+    /*prevent*/
+    .box {
+        margin: 10px;
+    }
+    /*precautions*/
+    .p_box h3 {
+        font-size: 1.5rem;
+    }
+    .pre_title {
+        font-size: 1.5rem;
+
+    }
+    /*doctor*/
+
+    /*footer*/
+    footer {
+        text-align: center;
+    }
+    .scroll-top img {
+        width: 4rem;
+    }
+
+
+ }
+
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*header*/
+    .menu ul li a {
+        padding: 10px 0 0 !important; 
+        font-size: 25px;
+        text-align: right;
+
+    }
+    .content h3 {
+        font-size: 3rem;
+    }
+    /*syptoms    */
+    .content h1 {
+        font-size: 3rem;
+        margin-bottom: 40px;
+    }
+    /*prevent*/
+    .box {
+        margin: 10px;
+    }
+    /*precautions*/
+    .p_box h3 {
+        font-size: 1.5rem;
+    }
+    /*doctor*/
+    .p_box img {
+        width: 10rem;
+    }
+    /*footer*/
+    footer {
+    text-align: center;
+}
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*header*/
+    .menu ul li a {
+        padding: 10px 0 0 !important; 
+        font-size: 25px;
+        text-align: right;
+
+    }
+    .content h3 {
+        font-size: 2rem;
+    }
+    /*syptoms    */
+    .content h1 {
+        font-size: 3rem;
+        margin-bottom: 40px;
+    }
+    /*prevent*/
+    .box {
+        margin: 10px;
+    }
+    /*precautions*/
+    .p_box h3 {
+        font-size: 1.5rem;
+    }
+    /*doctor*/
+
+    /*footer*/
+    footer {
+    text-align: center;
+}
+
+
+ }
+
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*header*/
+    .menu ul li a {
+    	padding: 10px 0 0 !important; 
+    	font-size: 25px;
+    	text-align: right;
+
+    }
+    .content h3 {
+        font-size: 3rem;
+    }
+    /*syptoms    */
+    .content h1 {
+        font-size: 3rem;
+        margin-bottom: 40px;
+    }
+    /*prevent*/
+    .box {
+        margin: 10px;
+    }
+    /*precautions*/
+    .p_box h3 {
+        font-size: 1.5rem;
+    }
+    /*doctor*/
+    .p_box img {
+        width: 10rem;
+    }
+    /*footer*/
+    footer {
+    text-align: center;
+}
+
+
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	    /*header*/
+        .menu ul li a {
+            padding: 0 30px !important;
+        }
+
+
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+}
+
+ /*Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) { 
+
+
+ }
+
+ 
